@@ -5,8 +5,7 @@ I'm a recent graduate with a focus on cybersecurity, programming, and technical 
 
 ## Objective
 
-I'm focused on starting a career in cybersecurity, aiming to join a Security Operations Center as a Tier 1 Analyst. I’m building practical skills in threat detection, system monitoring, and incident response to support this goal. 
-
+I'm focused on starting a career in cybersecurity with a goal in ethical hacking and penetration testing. I’m building practical skills in Python scripting, Linux systems, SQL databases, threat detection, and incident response to support offensive security work.
 ## Skills
 
 | Skill                                         | Associated Project         |
@@ -24,11 +23,7 @@ I'm focused on starting a career in cybersecurity, aiming to join a Security Ope
 </div>
 
 
-### SIEM
-<div>
-    <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
 
-</div>
 
 ## Certifications
 <div>
