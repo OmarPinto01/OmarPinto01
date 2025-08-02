@@ -1,5 +1,7 @@
 # Hello, I'm Omar Pinto
-<a href="www.linkedin.com/in/omar-pinto-161733251"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="www.linkedin.com/in/
+omar-pinto-161733251
+"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 I'm a recent graduate with a focus on cybersecurity, programming, and technical systems. I use this space to document my learning, share projects, and build practical skills for a career in security.
 
