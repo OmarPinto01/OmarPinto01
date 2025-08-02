@@ -1,4 +1,4 @@
-# Hello, I'm Omar Pinto
+ # Hello, I'm Omar Pinto
 <a href="https://www.linkedin.com/in/omar-pinto-161733251"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 I'm a recent graduate with a focus on cybersecurity, programming, and technical systems. I use this space to document my learning, share projects, and build practical skills for a career in security.
@@ -11,7 +11,7 @@ I'm focused on starting a career in cybersecurity, aiming to join a Security Ope
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
+| SIEM Implementation and Log Analysis          | <a href="https://github.com/OmarPinto01/Detection-Lab/blob/main/README.md">Detection Lab</a>|
 | Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
 
 
@@ -38,5 +38,5 @@ I'm focused on starting a career in cybersecurity, aiming to join a Security Ope
 </div>
 
 ## Projects
-- Detection Lab
+- <a href="https://github.com/OmarPinto01/Detection-Lab/blob/main/README.md">Detection Lab</a>
 - SOC Automation Project
