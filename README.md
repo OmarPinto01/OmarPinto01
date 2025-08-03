@@ -33,5 +33,4 @@ I'm focused on starting a career in cybersecurity with a goal in ethical hacking
 </div>
 
 ## Projects
-- <a href="https://github.com/OmarPinto01/Detection-Lab/blob/main/README.md">Detection Lab</a>
-- SOC Automation Project
+
