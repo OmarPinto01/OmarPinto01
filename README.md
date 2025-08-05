@@ -10,8 +10,9 @@ I'm focused on starting a career in cybersecurity with a goal in ethical hacking
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a href="https://github.com/OmarPinto01/Detection-Lab/blob/main/README.md">Detection Lab</a>|
-| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
+| Linux Systems and Command Line Proficiency         | |
+| SQL | |
+| Python Scripting for Automation              | — |                        
 
 
 ## Tools
