@@ -29,7 +29,7 @@ I'm focused on starting a career in cybersecurity with a goal in ethical hacking
 ## Certifications
 <div>
 <img src="https://img.shields.io/badge/-Google%20Cybersecurity-4285F4?&style=for-the-badge&logo=Google&logoColor=white" />
-
+<img src="https://img.shields.io/badge/-TryHackMe%20Pre%20Security-E6223A?&style=for-the-badge&logo=TryHackMe&logoColor=white" />
 
 </div>
 
